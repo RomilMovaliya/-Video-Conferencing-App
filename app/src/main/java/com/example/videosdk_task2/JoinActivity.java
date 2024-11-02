@@ -21,7 +21,7 @@ import org.json.JSONObject;
 public class JoinActivity extends AppCompatActivity {
 
     //Replace with the token you generated from the VideoSDK Dashboard
-    private String sampleToken ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiIyMDc2YjQ5MS04NjE0LTRkYzgtYWNkOC1kMjkxMDUwMTE3NDkiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTczMDI4NDUyOCwiZXhwIjoxNzMwODg5MzI4fQ.NrrKyZ1CaPu3LkBqMfoFGyxv37upNFZqTdUnbSrbHXA";
+    private String sampleToken ="YOUR-TOKEN";
 
     private static final int PERMISSION_REQ_ID = 22;
 
